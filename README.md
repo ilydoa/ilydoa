@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I'm Ilayda, a Computer Science student with an interest in Data Science/AI. I am proficient in Python, Java, C, OCaml, Rust, and Assembly. 
+
+- 🔭 I’m currently working on a Data Science/Sentiment Analysis project with Relativity Software.
+- 🌱 I’m currently learning OCaml and Rust.
+- 💬 Here, you'll find some of my projects, including the game "Escape the Music Forest" from Technica 2024's Best Gameification Hack category
+- 📫 How to reach me: You can find me at https://www.linkedin.com/in/ilayda-dogan-id1/
+- ⚡ Fun fact: I enjoy music theory!
+
+
 <!--
 **ilydoa/ilydoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
