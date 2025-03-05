@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Ilayda, a Computer Science student with an interest in Data Science/AI. I am proficient in Python, Java, C, OCaml, Rust, and Assembly. 
+I'm ilydoa, a Computer Science student with an interest in Data Science/AI. I am proficient in Python, Java, C, OCaml, Rust, and Assembly. 
 
 - 🔭 I’m currently working on a Data Science/Sentiment Analysis project with Relativity Software.
 - 🌱 I’m currently learning OCaml and Rust.
