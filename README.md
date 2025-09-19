@@ -1,10 +1,9 @@
 ## Hi there 👋
 
-I'm ilydoa, a Computer Science student with an interest in Data Science/AI. I am proficient in Python, Java, C, OCaml, Rust, and Assembly. 
+I'm ilydoa, a Computer Science student with an interest in Data Science/AI. I am proficient in Python, Java, C, and React.js. 
 
-- 🔭 I’m currently working on a Data Science/Sentiment Analysis project with Relativity Software.
-- 🌱 I’m currently learning OCaml and Rust.
-- 💬 Here, you'll find some of my projects, including the game "Escape the Music Forest" from Technica 2024's Best Gameification Hack category
+- 🌱 I previously interned with the Library of Congress on the "Collaging Through Space and Time" project and worked with industry mentors from Relativity Software on a sentiment analysis and LLM exploration project.
+- 💬 Here, you'll find those projects and some of my Hackathon projects, including my project with the game "Escape the Music Forest" from Technica 2024's Best Gameification Hack category
 - ⚡ Fun fact: I enjoy music theory!
 
 
